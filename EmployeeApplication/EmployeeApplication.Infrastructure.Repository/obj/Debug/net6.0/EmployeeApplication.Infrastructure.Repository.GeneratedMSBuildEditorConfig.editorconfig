@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EmployeeApplication.Infrastructure.Repository
-build_property.ProjectDir = D:\asp.net _core_project\Project1\EmployeeApplication\EmployeeApplication.Infrastructure.Repository\
+build_property.ProjectDir = C:\Users\Tushar Jariwala\Source\Repos\asp.net_core_web_api_crud\EmployeeApplication\EmployeeApplication.Infrastructure.Repository\

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\asp.net _core_project\\Project1\\EmployeeApplication\\EmployeeApplication.Infrastructure.Domain\\EmployeeApplication.Infrastructure.Domain.csproj": {}
+    "C:\\Users\\Tushar Jariwala\\Source\\Repos\\asp.net_core_web_api_crud\\EmployeeApplication\\EmployeeApplication.Infrastructure.Domain\\EmployeeApplication.Infrastructure.Domain.csproj": {}
   },
   "projects": {
-    "D:\\asp.net _core_project\\Project1\\EmployeeApplication\\EmployeeApplication.Infrastructure.Domain\\EmployeeApplication.Infrastructure.Domain.csproj": {
+    "C:\\Users\\Tushar Jariwala\\Source\\Repos\\asp.net_core_web_api_crud\\EmployeeApplication\\EmployeeApplication.Infrastructure.Domain\\EmployeeApplication.Infrastructure.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\asp.net _core_project\\Project1\\EmployeeApplication\\EmployeeApplication.Infrastructure.Domain\\EmployeeApplication.Infrastructure.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Tushar Jariwala\\Source\\Repos\\asp.net_core_web_api_crud\\EmployeeApplication\\EmployeeApplication.Infrastructure.Domain\\EmployeeApplication.Infrastructure.Domain.csproj",
         "projectName": "EmployeeApplication.Infrastructure.Domain",
-        "projectPath": "D:\\asp.net _core_project\\Project1\\EmployeeApplication\\EmployeeApplication.Infrastructure.Domain\\EmployeeApplication.Infrastructure.Domain.csproj",
+        "projectPath": "C:\\Users\\Tushar Jariwala\\Source\\Repos\\asp.net_core_web_api_crud\\EmployeeApplication\\EmployeeApplication.Infrastructure.Domain\\EmployeeApplication.Infrastructure.Domain.csproj",
         "packagesPath": "C:\\Users\\Tushar Jariwala\\.nuget\\packages\\",
-        "outputPath": "D:\\asp.net _core_project\\Project1\\EmployeeApplication\\EmployeeApplication.Infrastructure.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Tushar Jariwala\\Source\\Repos\\asp.net_core_web_api_crud\\EmployeeApplication\\EmployeeApplication.Infrastructure.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

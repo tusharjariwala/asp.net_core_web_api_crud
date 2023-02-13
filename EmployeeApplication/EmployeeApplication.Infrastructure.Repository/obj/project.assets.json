@@ -1969,11 +1969,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\asp.net _core_project\\Project1\\EmployeeApplication\\EmployeeApplication.Infrastructure.Repository\\EmployeeApplication.Infrastructure.Repository.csproj",
+      "projectUniqueName": "C:\\Users\\Tushar Jariwala\\Source\\Repos\\asp.net_core_web_api_crud\\EmployeeApplication\\EmployeeApplication.Infrastructure.Repository\\EmployeeApplication.Infrastructure.Repository.csproj",
       "projectName": "EmployeeApplication.Infrastructure.Repository",
-      "projectPath": "D:\\asp.net _core_project\\Project1\\EmployeeApplication\\EmployeeApplication.Infrastructure.Repository\\EmployeeApplication.Infrastructure.Repository.csproj",
+      "projectPath": "C:\\Users\\Tushar Jariwala\\Source\\Repos\\asp.net_core_web_api_crud\\EmployeeApplication\\EmployeeApplication.Infrastructure.Repository\\EmployeeApplication.Infrastructure.Repository.csproj",
       "packagesPath": "C:\\Users\\Tushar Jariwala\\.nuget\\packages\\",
-      "outputPath": "D:\\asp.net _core_project\\Project1\\EmployeeApplication\\EmployeeApplication.Infrastructure.Repository\\obj\\",
+      "outputPath": "C:\\Users\\Tushar Jariwala\\Source\\Repos\\asp.net_core_web_api_crud\\EmployeeApplication\\EmployeeApplication.Infrastructure.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1994,8 +1994,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\asp.net _core_project\\Project1\\EmployeeApplication\\EmployeeApplication.Infrastructure.Contract\\EmployeeApplication.Infrastructure.Contract.csproj": {
-              "projectPath": "D:\\asp.net _core_project\\Project1\\EmployeeApplication\\EmployeeApplication.Infrastructure.Contract\\EmployeeApplication.Infrastructure.Contract.csproj"
+            "C:\\Users\\Tushar Jariwala\\Source\\Repos\\asp.net_core_web_api_crud\\EmployeeApplication\\EmployeeApplication.Infrastructure.Contract\\EmployeeApplication.Infrastructure.Contract.csproj": {
+              "projectPath": "C:\\Users\\Tushar Jariwala\\Source\\Repos\\asp.net_core_web_api_crud\\EmployeeApplication\\EmployeeApplication.Infrastructure.Contract\\EmployeeApplication.Infrastructure.Contract.csproj"
             }
           }
         }

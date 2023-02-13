@@ -2136,11 +2136,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\asp.net _core_project\\Project1\\EmployeeApplication\\EmployeeApplication.Core.Service\\EmployeeApplication.Core.Service.csproj",
+      "projectUniqueName": "C:\\Users\\Tushar Jariwala\\Source\\Repos\\asp.net_core_web_api_crud\\EmployeeApplication\\EmployeeApplication.Core.Service\\EmployeeApplication.Core.Service.csproj",
       "projectName": "EmployeeApplication.Core.Service",
-      "projectPath": "D:\\asp.net _core_project\\Project1\\EmployeeApplication\\EmployeeApplication.Core.Service\\EmployeeApplication.Core.Service.csproj",
+      "projectPath": "C:\\Users\\Tushar Jariwala\\Source\\Repos\\asp.net_core_web_api_crud\\EmployeeApplication\\EmployeeApplication.Core.Service\\EmployeeApplication.Core.Service.csproj",
       "packagesPath": "C:\\Users\\Tushar Jariwala\\.nuget\\packages\\",
-      "outputPath": "D:\\asp.net _core_project\\Project1\\EmployeeApplication\\EmployeeApplication.Core.Service\\obj\\",
+      "outputPath": "C:\\Users\\Tushar Jariwala\\Source\\Repos\\asp.net_core_web_api_crud\\EmployeeApplication\\EmployeeApplication.Core.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2161,14 +2161,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\asp.net _core_project\\Project1\\EmployeeApplication\\EmployeeApplication.Core.Builder\\EmployeeApplication.Core.Builder.csproj": {
-              "projectPath": "D:\\asp.net _core_project\\Project1\\EmployeeApplication\\EmployeeApplication.Core.Builder\\EmployeeApplication.Core.Builder.csproj"
+            "C:\\Users\\Tushar Jariwala\\Source\\Repos\\asp.net_core_web_api_crud\\EmployeeApplication\\EmployeeApplication.Core.Builder\\EmployeeApplication.Core.Builder.csproj": {
+              "projectPath": "C:\\Users\\Tushar Jariwala\\Source\\Repos\\asp.net_core_web_api_crud\\EmployeeApplication\\EmployeeApplication.Core.Builder\\EmployeeApplication.Core.Builder.csproj"
             },
-            "D:\\asp.net _core_project\\Project1\\EmployeeApplication\\EmployeeApplication.Core.Contract\\EmployeeApplication.Core.Contract.csproj": {
-              "projectPath": "D:\\asp.net _core_project\\Project1\\EmployeeApplication\\EmployeeApplication.Core.Contract\\EmployeeApplication.Core.Contract.csproj"
+            "C:\\Users\\Tushar Jariwala\\Source\\Repos\\asp.net_core_web_api_crud\\EmployeeApplication\\EmployeeApplication.Core.Contract\\EmployeeApplication.Core.Contract.csproj": {
+              "projectPath": "C:\\Users\\Tushar Jariwala\\Source\\Repos\\asp.net_core_web_api_crud\\EmployeeApplication\\EmployeeApplication.Core.Contract\\EmployeeApplication.Core.Contract.csproj"
             },
-            "D:\\asp.net _core_project\\Project1\\EmployeeApplication\\EmployeeApplication.Infrastructure.Contract\\EmployeeApplication.Infrastructure.Contract.csproj": {
-              "projectPath": "D:\\asp.net _core_project\\Project1\\EmployeeApplication\\EmployeeApplication.Infrastructure.Contract\\EmployeeApplication.Infrastructure.Contract.csproj"
+            "C:\\Users\\Tushar Jariwala\\Source\\Repos\\asp.net_core_web_api_crud\\EmployeeApplication\\EmployeeApplication.Infrastructure.Contract\\EmployeeApplication.Infrastructure.Contract.csproj": {
+              "projectPath": "C:\\Users\\Tushar Jariwala\\Source\\Repos\\asp.net_core_web_api_crud\\EmployeeApplication\\EmployeeApplication.Infrastructure.Contract\\EmployeeApplication.Infrastructure.Contract.csproj"
             }
           }
         }
