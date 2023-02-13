@@ -1,0 +1,17 @@
+D:\asp.net _core_project\Project1\EmployeeApplication\EmployeeApplication.Infrastructure.Contract\bin\Debug\net6.0\EmployeeApplication.Infrastructure.Contract.deps.json
+D:\asp.net _core_project\Project1\EmployeeApplication\EmployeeApplication.Infrastructure.Contract\bin\Debug\net6.0\EmployeeApplication.Infrastructure.Contract.dll
+D:\asp.net _core_project\Project1\EmployeeApplication\EmployeeApplication.Infrastructure.Contract\bin\Debug\net6.0\EmployeeApplication.Infrastructure.Contract.pdb
+D:\asp.net _core_project\Project1\EmployeeApplication\EmployeeApplication.Infrastructure.Contract\bin\Debug\net6.0\EmployeeApplication.Infrastructure.Domain.dll
+D:\asp.net _core_project\Project1\EmployeeApplication\EmployeeApplication.Infrastructure.Contract\bin\Debug\net6.0\EmployeeApplication.Infrastructure.Domain.pdb
+D:\asp.net _core_project\Project1\EmployeeApplication\EmployeeApplication.Infrastructure.Contract\obj\Debug\net6.0\EmployeeApplication.Infrastructure.Contract.csproj.AssemblyReference.cache
+D:\asp.net _core_project\Project1\EmployeeApplication\EmployeeApplication.Infrastructure.Contract\obj\Debug\net6.0\EmployeeApplication.Infrastructure.Contract.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp.net _core_project\Project1\EmployeeApplication\EmployeeApplication.Infrastructure.Contract\obj\Debug\net6.0\EmployeeApplication.Infrastructure.Contract.AssemblyInfoInputs.cache
+D:\asp.net _core_project\Project1\EmployeeApplication\EmployeeApplication.Infrastructure.Contract\obj\Debug\net6.0\EmployeeApplication.Infrastructure.Contract.AssemblyInfo.cs
+D:\asp.net _core_project\Project1\EmployeeApplication\EmployeeApplication.Infrastructure.Contract\obj\Debug\net6.0\EmployeeApplication.Infrastructure.Contract.csproj.CoreCompileInputs.cache
+D:\asp.net _core_project\Project1\EmployeeApplication\EmployeeApplication.Infrastructure.Contract\obj\Debug\net6.0\EmployeeApplication.Infrastructure.Contract.csproj.CopyComplete
+D:\asp.net _core_project\Project1\EmployeeApplication\EmployeeApplication.Infrastructure.Contract\obj\Debug\net6.0\EmployeeApplication.Infrastructure.Contract.dll
+D:\asp.net _core_project\Project1\EmployeeApplication\EmployeeApplication.Infrastructure.Contract\obj\Debug\net6.0\refint\EmployeeApplication.Infrastructure.Contract.dll
+D:\asp.net _core_project\Project1\EmployeeApplication\EmployeeApplication.Infrastructure.Contract\obj\Debug\net6.0\EmployeeApplication.Infrastructure.Contract.pdb
+D:\asp.net _core_project\Project1\EmployeeApplication\EmployeeApplication.Infrastructure.Contract\obj\Debug\net6.0\ref\EmployeeApplication.Infrastructure.Contract.dll
+D:\asp.net _core_project\Project1\EmployeeApplication\EmployeeApplication.Infrastructure.Contract\bin\Debug\net6.0\EmployeeApplication.Shared.dll
+D:\asp.net _core_project\Project1\EmployeeApplication\EmployeeApplication.Infrastructure.Contract\bin\Debug\net6.0\EmployeeApplication.Shared.pdb

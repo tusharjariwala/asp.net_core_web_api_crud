@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "h6e3AbeeVLc4DgUblnLWZ+LSkTSvIWblXFjpYLIY55V32Nf6Yp24bQElgasWbEioKDeOdv8xVzHI9KemhrGxvA==",
+  "success": true,
+  "projectFilePath": "D:\\asp.net _core_project\\Project1\\EmployeeApplication\\EmployeeApplication.Core.Domain\\EmployeeApplication.Core.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tushar Jariwala\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\Tushar Jariwala\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\Tushar Jariwala\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+D:\asp.net _core_project\Project1\EmployeeApplication\EmployeeApplication.Infrastructure.Domain\bin\Debug\net6.0\EmployeeApplication.Infrastructure.Domain.deps.json
+D:\asp.net _core_project\Project1\EmployeeApplication\EmployeeApplication.Infrastructure.Domain\bin\Debug\net6.0\EmployeeApplication.Infrastructure.Domain.dll
+D:\asp.net _core_project\Project1\EmployeeApplication\EmployeeApplication.Infrastructure.Domain\bin\Debug\net6.0\EmployeeApplication.Infrastructure.Domain.pdb
+D:\asp.net _core_project\Project1\EmployeeApplication\EmployeeApplication.Infrastructure.Domain\obj\Debug\net6.0\EmployeeApplication.Infrastructure.Domain.csproj.AssemblyReference.cache
+D:\asp.net _core_project\Project1\EmployeeApplication\EmployeeApplication.Infrastructure.Domain\obj\Debug\net6.0\EmployeeApplication.Infrastructure.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp.net _core_project\Project1\EmployeeApplication\EmployeeApplication.Infrastructure.Domain\obj\Debug\net6.0\EmployeeApplication.Infrastructure.Domain.AssemblyInfoInputs.cache
+D:\asp.net _core_project\Project1\EmployeeApplication\EmployeeApplication.Infrastructure.Domain\obj\Debug\net6.0\EmployeeApplication.Infrastructure.Domain.AssemblyInfo.cs
+D:\asp.net _core_project\Project1\EmployeeApplication\EmployeeApplication.Infrastructure.Domain\obj\Debug\net6.0\EmployeeApplication.Infrastructure.Domain.csproj.CoreCompileInputs.cache
+D:\asp.net _core_project\Project1\EmployeeApplication\EmployeeApplication.Infrastructure.Domain\obj\Debug\net6.0\EmployeeApplication.Infrastructure.Domain.dll
+D:\asp.net _core_project\Project1\EmployeeApplication\EmployeeApplication.Infrastructure.Domain\obj\Debug\net6.0\refint\EmployeeApplication.Infrastructure.Domain.dll
+D:\asp.net _core_project\Project1\EmployeeApplication\EmployeeApplication.Infrastructure.Domain\obj\Debug\net6.0\EmployeeApplication.Infrastructure.Domain.pdb
+D:\asp.net _core_project\Project1\EmployeeApplication\EmployeeApplication.Infrastructure.Domain\obj\Debug\net6.0\ref\EmployeeApplication.Infrastructure.Domain.dll

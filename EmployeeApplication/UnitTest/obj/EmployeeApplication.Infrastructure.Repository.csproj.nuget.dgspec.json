@@ -1,0 +1,271 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\asp.net _core_project\\Project1\\EmployeeApplication\\EmployeeApplication.Infrastructure.Repository\\EmployeeApplication.Infrastructure.Repository.csproj": {}
+  },
+  "projects": {
+    "D:\\asp.net _core_project\\Project1\\EmployeeApplication\\EmployeeApplication.Core.Contract\\EmployeeApplication.Core.Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\asp.net _core_project\\Project1\\EmployeeApplication\\EmployeeApplication.Core.Contract\\EmployeeApplication.Core.Contract.csproj",
+        "projectName": "EmployeeApplication.Core.Contract",
+        "projectPath": "D:\\asp.net _core_project\\Project1\\EmployeeApplication\\EmployeeApplication.Core.Contract\\EmployeeApplication.Core.Contract.csproj",
+        "packagesPath": "C:\\Users\\Tushar Jariwala\\.nuget\\packages\\",
+        "outputPath": "D:\\asp.net _core_project\\Project1\\EmployeeApplication\\EmployeeApplication.Core.Contract\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tushar Jariwala\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\asp.net _core_project\\Project1\\EmployeeApplication\\EmployeeApplication.Core.Domain\\EmployeeApplication.Core.Domain.csproj": {
+                "projectPath": "D:\\asp.net _core_project\\Project1\\EmployeeApplication\\EmployeeApplication.Core.Domain\\EmployeeApplication.Core.Domain.csproj"
+              },
+              "D:\\asp.net _core_project\\Project1\\EmployeeApplication\\EmployeeApplication.Infrastructure.Domain\\EmployeeApplication.Infrastructure.Domain.csproj": {
+                "projectPath": "D:\\asp.net _core_project\\Project1\\EmployeeApplication\\EmployeeApplication.Infrastructure.Domain\\EmployeeApplication.Infrastructure.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\asp.net _core_project\\Project1\\EmployeeApplication\\EmployeeApplication.Core.Domain\\EmployeeApplication.Core.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\asp.net _core_project\\Project1\\EmployeeApplication\\EmployeeApplication.Core.Domain\\EmployeeApplication.Core.Domain.csproj",
+        "projectName": "EmployeeApplication.Core.Domain",
+        "projectPath": "D:\\asp.net _core_project\\Project1\\EmployeeApplication\\EmployeeApplication.Core.Domain\\EmployeeApplication.Core.Domain.csproj",
+        "packagesPath": "C:\\Users\\Tushar Jariwala\\.nuget\\packages\\",
+        "outputPath": "D:\\asp.net _core_project\\Project1\\EmployeeApplication\\EmployeeApplication.Core.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tushar Jariwala\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\asp.net _core_project\\Project1\\EmployeeApplication\\EmployeeApplication.Infrastructure.Domain\\EmployeeApplication.Infrastructure.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\asp.net _core_project\\Project1\\EmployeeApplication\\EmployeeApplication.Infrastructure.Domain\\EmployeeApplication.Infrastructure.Domain.csproj",
+        "projectName": "EmployeeApplication.Infrastructure.Domain",
+        "projectPath": "D:\\asp.net _core_project\\Project1\\EmployeeApplication\\EmployeeApplication.Infrastructure.Domain\\EmployeeApplication.Infrastructure.Domain.csproj",
+        "packagesPath": "C:\\Users\\Tushar Jariwala\\.nuget\\packages\\",
+        "outputPath": "D:\\asp.net _core_project\\Project1\\EmployeeApplication\\EmployeeApplication.Infrastructure.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tushar Jariwala\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\asp.net _core_project\\Project1\\EmployeeApplication\\EmployeeApplication.Infrastructure.Repository\\EmployeeApplication.Infrastructure.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\asp.net _core_project\\Project1\\EmployeeApplication\\EmployeeApplication.Infrastructure.Repository\\EmployeeApplication.Infrastructure.Repository.csproj",
+        "projectName": "UnitTest",
+        "projectPath": "D:\\asp.net _core_project\\Project1\\EmployeeApplication\\EmployeeApplication.Infrastructure.Repository\\EmployeeApplication.Infrastructure.Repository.csproj",
+        "packagesPath": "C:\\Users\\Tushar Jariwala\\.nuget\\packages\\",
+        "outputPath": "D:\\asp.net _core_project\\Project1\\EmployeeApplication\\UnitTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tushar Jariwala\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\asp.net _core_project\\Project1\\EmployeeApplication\\EmployeeApplication.Core.Contract\\EmployeeApplication.Core.Contract.csproj": {
+                "projectPath": "D:\\asp.net _core_project\\Project1\\EmployeeApplication\\EmployeeApplication.Core.Contract\\EmployeeApplication.Core.Contract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

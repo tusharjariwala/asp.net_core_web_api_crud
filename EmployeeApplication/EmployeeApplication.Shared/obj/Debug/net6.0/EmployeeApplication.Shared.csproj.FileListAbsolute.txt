@@ -1,0 +1,12 @@
+D:\asp.net _core_project\Project1\EmployeeApplication\EmployeeApplication.Shared\bin\Debug\net6.0\EmployeeApplication.Shared.deps.json
+D:\asp.net _core_project\Project1\EmployeeApplication\EmployeeApplication.Shared\bin\Debug\net6.0\EmployeeApplication.Shared.dll
+D:\asp.net _core_project\Project1\EmployeeApplication\EmployeeApplication.Shared\bin\Debug\net6.0\EmployeeApplication.Shared.pdb
+D:\asp.net _core_project\Project1\EmployeeApplication\EmployeeApplication.Shared\obj\Debug\net6.0\EmployeeApplication.Shared.csproj.AssemblyReference.cache
+D:\asp.net _core_project\Project1\EmployeeApplication\EmployeeApplication.Shared\obj\Debug\net6.0\EmployeeApplication.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp.net _core_project\Project1\EmployeeApplication\EmployeeApplication.Shared\obj\Debug\net6.0\EmployeeApplication.Shared.AssemblyInfoInputs.cache
+D:\asp.net _core_project\Project1\EmployeeApplication\EmployeeApplication.Shared\obj\Debug\net6.0\EmployeeApplication.Shared.AssemblyInfo.cs
+D:\asp.net _core_project\Project1\EmployeeApplication\EmployeeApplication.Shared\obj\Debug\net6.0\EmployeeApplication.Shared.csproj.CoreCompileInputs.cache
+D:\asp.net _core_project\Project1\EmployeeApplication\EmployeeApplication.Shared\obj\Debug\net6.0\EmployeeApplication.Shared.dll
+D:\asp.net _core_project\Project1\EmployeeApplication\EmployeeApplication.Shared\obj\Debug\net6.0\refint\EmployeeApplication.Shared.dll
+D:\asp.net _core_project\Project1\EmployeeApplication\EmployeeApplication.Shared\obj\Debug\net6.0\EmployeeApplication.Shared.pdb
+D:\asp.net _core_project\Project1\EmployeeApplication\EmployeeApplication.Shared\obj\Debug\net6.0\ref\EmployeeApplication.Shared.dll
